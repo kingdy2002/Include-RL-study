@@ -18,7 +18,7 @@
 
 12-13(월) ~ 12-17(금) 기말고사
 
-- 9/16
+- 9/11
 
   강화학습 이란? 
 
@@ -26,49 +26,49 @@
 
   MDP, POMDP, 벨만방정식 ....
 
-- 9/23
+- 9/18
 
   Value base model free 알고리즘 
 
   DQN, DDQN, PER, C51,Noisy, RAINBOW
 
-- 9/30
+- 9/25
 
   policy base model free 알고리즘
 
   REINFORCE, A3C, TRPO, PPO
 
-- 10/28
+- 10/2
 
   policy base model free 알고리즘
 
   Soft-Q, SAC
 
-- 11/4
+- 10/30
 
   deterministic
 
   DDPG, TD3
 
-- 11/11
+- 11/6
 
   multi goal
 
   UVFA, HER
 
-- 11/14
+- 11/13
 
   meta
 
   R^2, MAML
 
-- 11/25
+- 11/20
 
   model-base, latent space
 
   Planet, Dreamer
 
-- 12/23
+- 11/27
 
   mutli agent
 
