@@ -56,23 +56,12 @@
 
   UVFA, HER
 
-- 11/13
+- 12/29
+  
+  exploration
+  
+  ICM, RND
 
-  meta
-
-  R^2, MAML
-
-- 11/20
-
-  model-base, latent space
-
-  Planet, Dreamer
-
-- 11/27
-
-  mutli agent
-
-  QMIX, COMA, LIIR
 
 
 
